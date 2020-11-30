@@ -80,7 +80,7 @@ The growth of supermarkets in most populated cities are increasing and market co
    ![Figure 2.4](https://github.com/boxside/Supermarket-Sales-Performance/blob/main/figure/customer5.png)
    Female customer prefer to Cash and Credit Card as Payment Method, but male tend to Ewallet, but if we summarize the count of customer,
    we get that customer prefer using Ewallet and Cash as Payment method.
-   ![Figure 2.5](https://github.com/boxside/Supermarket-Sales-Performance/blob/main/figure/customer6.png)
+   ![Figure 2.5](https://github.com/boxside/Supermarket-Sales-Performance/blob/main/figure/customer4.png)
   ## Rating Analysis
   ![Figure 3.1](https://github.com/boxside/Supermarket-Sales-Performance/blob/main/figure/rating1.png)
   ![Figure 3.2](https://github.com/boxside/Supermarket-Sales-Performance/blob/main/figure/rating2.png)
